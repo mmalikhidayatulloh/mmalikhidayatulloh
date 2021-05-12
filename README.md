@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohammadmalik
+- 👋 Hi, I’m [Malik](github.com/mmalikhidayatulloh)
 - 👀 I’m interested in Electronic, IoT, Physyics, Linux
 - 🌱 I’m currently learning Physics
 - 💞️ I’m looking to collaborate on IoT project, also linux or freeBSD developments
