@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [Malik](github.com/mmalikhidayatulloh)
-- 👀 I’m interested in Electronic, IoT, Physyics, Linux
+- 👀 I’m interested in Electronic, IoT, Physics, Linux
 - 🌱 I’m currently learning Physics
-- 💞️ I’m looking to collaborate on IoT project, also linux or freeBSD developments
+- 💞️ I’m looking to collaborate on IoT project, FOSS, also linux or BSD developments.
 - 📫 How to reach me : 
 
 * [Instagram](https://instagram.com/malik_mamal)
