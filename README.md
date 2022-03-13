@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on FOSS, Unix, Computer hardware.
 - 📫 How to reach me : 
 
-* [Instagram](https://instagram.com/mmalikhidayatulloh)
+* [Instagram](https://instagram.com/m_malikhidayatulloh)
 * [Twitter](https://twitter.com/mmalik_hidayat) 
 * [Facebook](https://facebook.com/malix.4)
 
