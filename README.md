@@ -1,10 +1,10 @@
 - 👋 Hi, I’m [Malik](github.com/mmalikhidayatulloh)
-- 👀 I’m interested in Electronic, IoT, Physics, Linux
+- 👀 I’m interested in Physics, Unix, Open Source, Material Science, Network
 - 🌱 I’m currently learning Physics
-- 💞️ I’m looking to collaborate on IoT project, FOSS, also linux or BSD developments.
+- 💞️ I’m looking to collaborate on FOSS, Unix, Computer hardware.
 - 📫 How to reach me : 
 
-* [Instagram](https://instagram.com/malik_mamal)
+* [Instagram](https://instagram.com/mmalikhidayatulloh)
 * [Twitter](https://twitter.com/mmalik_hidayat) 
 * [Facebook](https://facebook.com/malix.4)
 
